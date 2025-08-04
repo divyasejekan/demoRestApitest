@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-04T12:30:52 IST" name="LibraryAPITests" finished-at="2025-08-04T12:30:53 IST" duration-ms="1657">
+    <groups>
+    </groups>
+    <test started-at="2025-08-04T12:30:52 IST" name="APITestSuite" finished-at="2025-08-04T12:30:53 IST" duration-ms="1657">
+      <class name="demoTests.APIDemoPostTest">
+        <test-method signature="ApiPostTest()[pri:0, instance:demoTests.APIDemoPostTest@f5ac9e4]" started-at="2025-08-04T12:30:52 IST" name="ApiPostTest" finished-at="2025-08-04T12:30:53 IST" duration-ms="1497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApiPostTest -->
+      </class> <!-- demoTests.APIDemoPostTest -->
+      <class name="demoTests.ApiDemoDeleteTest">
+        <test-method signature="apiDeleteTest()[pri:0, instance:demoTests.ApiDemoDeleteTest@42e99e4a]" started-at="2025-08-04T12:30:53 IST" name="apiDeleteTest" finished-at="2025-08-04T12:30:53 IST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDeleteTest -->
+      </class> <!-- demoTests.ApiDemoDeleteTest -->
+      <class name="demoTests.ApiDemoGetTest">
+        <test-method signature="apiGetTest()[pri:0, instance:demoTests.ApiDemoGetTest@4d9e68d0]" started-at="2025-08-04T12:30:53 IST" name="apiGetTest" finished-at="2025-08-04T12:30:53 IST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiGetTest -->
+      </class> <!-- demoTests.ApiDemoGetTest -->
+    </test> <!-- APITestSuite -->
+  </suite> <!-- LibraryAPITests -->
+</testng-results>
